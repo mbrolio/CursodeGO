@@ -1,4 +1,4 @@
-package mapaninhado
+package main
 
 import (
 	"fmt"
